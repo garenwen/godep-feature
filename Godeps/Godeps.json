@@ -1,0 +1,11 @@
+{
+	"ImportPath": "github.com/garenwen/godep-feature",
+	"GoVersion": "go1.11",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/garenwen/godep-feature-dep/types",
+			"Rev": "34518b257a1225f3a14a9b95f65510fdd326f9a6"
+		}
+	]
+}
